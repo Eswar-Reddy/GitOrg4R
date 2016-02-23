@@ -65,6 +65,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>GitInfo</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>HolidayClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
