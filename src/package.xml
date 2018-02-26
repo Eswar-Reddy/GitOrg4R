@@ -254,7 +254,6 @@
         <members>AssetRelationship.RelatedAssetId</members>
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
-        <members>CSlabelacc1Obj__c.ExtraInfo__c</members>
         <members>Campaign.ActualCost</members>
         <members>Campaign.AmountAllOpportunities</members>
         <members>Campaign.AmountWonOpportunities</members>
@@ -359,15 +358,6 @@
         <members>ChannelProgramMember.LevelId</members>
         <members>ChannelProgramMember.PartnerId</members>
         <members>ChannelProgramMember.ProgramId</members>
-        <members>College__c.CollegeCourses__c</members>
-        <members>College__c.CollegeOpt2__c</members>
-        <members>College__c.CollegeOpt3__c</members>
-        <members>College__c.CollegeOpt4__c</members>
-        <members>College__c.CollegeOpt__c</members>
-        <members>College__c.CollegeP1__c</members>
-        <members>College__c.CollegeP2__c</members>
-        <members>College__c.CollegeP44__c</members>
-        <members>College__c.PicklistFieldMulti1__c</members>
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
@@ -908,8 +898,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>CL</members>
-        <members>Cls1</members>
         <members>Cls2</members>
         <members>Cls3</members>
         <members>CustomLabel1</members>
@@ -921,13 +909,10 @@
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
         <members>Account_Profile_Setting__c</members>
-        <members>Account_Profile__c</members>
         <members>Activity</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
-        <members>AutoRABITAPP__c</members>
-        <members>CSlabelacc1Obj__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -937,7 +922,6 @@
         <members>ChannelProgramMember</members>
         <members>CollaborationGroup</members>
         <members>CollaborationGroupMember</members>
-        <members>College__c</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
         <members>ContentVersion</members>
@@ -1301,7 +1285,6 @@
         <members>Activity.TodaysTasks</members>
         <members>Activity.UpcomingEvents</members>
         <members>Asset.AllAssets</members>
-        <members>AutoRABITAPP__c.All</members>
         <members>Campaign.AllActiveCampaigns</members>
         <members>Campaign.MyActiveCampaigns</members>
         <members>Case.AllClosedCases</members>
@@ -1313,7 +1296,6 @@
         <members>ChannelProgramLevel.All_Channel_Program_Levels</members>
         <members>ChannelProgramLevel.My_Channel_Program_Levels</members>
         <members>CollaborationGroup.All_ChatterGroups</members>
-        <members>College__c.All</members>
         <members>Contact.AllContacts</members>
         <members>Contact.BirthdaysThisMonth</members>
         <members>Contact.MyContacts</members>
