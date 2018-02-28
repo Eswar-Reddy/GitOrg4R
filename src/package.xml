@@ -765,9 +765,6 @@
         <members>PartnerMarketingBudget.TotalReimbursedFcs</members>
         <members>PartnerMarketingBudget.Type</members>
         <members>PartnerRole.ReverseRole</members>
-        <members>Pass1__c.Pass1Mobile1__c</members>
-        <members>Pass1__c.info__c</members>
-        <members>Pass1__c.infotestarea__c</members>
         <members>Pass2__c.Pass2Mobile1__c</members>
         <members>Pass3__c.Pass3Info__c</members>
         <members>Pass3__c.Pass3Mobile1__c</members>
@@ -898,7 +895,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Cls2</members>
         <members>Cls3</members>
         <members>CustomLabel1</members>
         <name>CustomLabel</name>
@@ -968,7 +964,6 @@
         <members>PartnerFundRequest</members>
         <members>PartnerMarketingBudget</members>
         <members>PartnerRole</members>
-        <members>Pass1__c</members>
         <members>Pass2__c</members>
         <members>Pass3__c</members>
         <members>Pricebook2</members>
@@ -1072,7 +1067,6 @@
     </types>
     <types>
         <members>ABI</members>
-        <members>ABI/newtextdoc.txt</members>
         <members>ARardocuments1.png</members>
         <members>ARdocuments</members>
         <members>FirstBannerImages</members>
@@ -1341,7 +1335,6 @@
         <members>PartnerFundRequest.My_Partner_Fund_Requests</members>
         <members>PartnerMarketingBudget.All_Partner_Marketing_Budgets</members>
         <members>PartnerMarketingBudget.My_Partner_Marketing_Budgets</members>
-        <members>Pass1__c.All</members>
         <members>Pass2__c.All</members>
         <members>Pass3__c.All</members>
         <members>Product2.AllProducts</members>
