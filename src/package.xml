@@ -12,6 +12,8 @@
         <members>Account1</members>
         <members>Account1_Test</members>
         <members>Account_2</members>
+        <members>BusinessClass</members>
+        <members>BusinessClassTest</members>
         <members>Controller</members>
         <members>Controller2</members>
         <members>Controller3</members>
