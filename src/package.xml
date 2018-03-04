@@ -40,6 +40,11 @@
         <members>CommunitiesSelfRegConfirmControllerTest</members>
         <members>CommunitiesSelfRegController</members>
         <members>CommunitiesSelfRegControllerTest</members>
+        <members>Controller</members>
+        <members>Controller2</members>
+        <members>Controller3</members>
+        <members>Controller4</members>
+        <members>Controller5</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest</members>
         <members>L1_Case</members>
@@ -1077,9 +1082,9 @@
         <members>Folder26/DocTest132.jpg</members>
         <members>SalesTools</members>
         <members>TestYousuf</members>
+        <members>TestYousuf/TestDeployment.jpg</members>
         <members>TestYousufFix</members>
         <members>TestYousufFix/TestDeploymentFix.jpg</members>
-        <members>TestYousuf/TestDeployment.jpg</members>
         <name>Document</name>
     </types>
     <types>
