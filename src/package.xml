@@ -108,6 +108,7 @@
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
+        <members>Account_Profile__c.Test_Field_del__c</members>
         <members>Asset.AccountId</members>
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
@@ -642,8 +643,11 @@
     </types>
     <types>
         <members>Account</members>
+        <members>AccountBrand</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
+        <members>Account_Profile_Setting__c</members>
+        <members>Account_Profile__c</members>
         <members>Activity</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
