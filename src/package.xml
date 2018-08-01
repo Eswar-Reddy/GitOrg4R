@@ -13,6 +13,10 @@
         <members>Account1</members>
         <members>Account1_Test</members>
         <members>Account_2</members>
+        <members>ApxClass1</members>
+        <members>ApxCls1</members>
+        <members>ApxCls2</members>
+        <members>ApxCls3</members>
         <members>BusinessClass</members>
         <members>BusinessClassTest</members>
         <members>Controller</members>
