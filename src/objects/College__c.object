@@ -43,9 +43,9 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
+    <description>new desc added</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
-    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
@@ -79,6 +79,54 @@
                     <label>EEE</label>
                 </value>
             </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>CollegeOpt2__c</fullName>
+        <externalId>false</externalId>
+        <label>CollegeOpt2</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>GlobalTestValueSet1</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>CollegeOpt3__c</fullName>
+        <externalId>false</externalId>
+        <label>CollegeOpt3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>GlobalPickListTest2</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>CollegeOpt4__c</fullName>
+        <externalId>false</externalId>
+        <label>CollegeOpt4</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>GlobalPickListTest3</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>CollegeOpt__c</fullName>
+        <externalId>false</externalId>
+        <label>CollegeOpt</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>GlobalPickListTest1</valueSetName>
         </valueSet>
     </fields>
     <fields>
