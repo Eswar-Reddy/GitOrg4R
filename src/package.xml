@@ -13,6 +13,9 @@
         <members>Account1</members>
         <members>Account1_Test</members>
         <members>Account_2</members>
+        <members>ApxClaMar10</members>
+        <members>ApxClass001</members>
+        <members>ApxClass001Test</members>
         <members>ApxClass1</members>
         <members>ApxCls1</members>
         <members>ApxCls2</members>
@@ -39,6 +42,12 @@
         <members>Case</members>
         <members>Lead</members>
         <name>AssignmentRules</name>
+    </types>
+    <types>
+        <members>AuraTest2</members>
+        <members>AuraTest3</members>
+        <members>Auratest56</members>
+        <name>AuraDefinitionBundle</name>
     </types>
     <types>
         <members>Case</members>
@@ -688,9 +697,13 @@
         <members>Emp2__c</members>
         <members>Emp__c</members>
         <members>Event</members>
+        <members>ExObj1__x</members>
+        <members>ExObj2__x</members>
         <members>ExchangeUserMapping</members>
+        <members>Expenses__c</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
+        <members>Hierarchy_CS__c</members>
         <members>Idea</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
@@ -721,6 +734,12 @@
         <members>TopicAssignment</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>UserTerritory2Association</members>
+        <members>Visitor__c</members>
+        <members>Wellsfargo__c</members>
+        <members>YesPlatform__e</members>
+        <members>commonObj__c</members>
+        <members>icmrcobj1__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -885,7 +904,9 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>ATESTProfile1</members>
         <members>AdmProfile111</members>
+        <members>AdmProfile222</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
