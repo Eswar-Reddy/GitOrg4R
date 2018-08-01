@@ -5,6 +5,7 @@
         <members>A101</members>
         <members>A102</members>
         <members>A21</members>
+        <members>A2222</members>
         <members>A99</members>
         <members>ARPTCls1</members>
         <members>Ac1111</members>
@@ -243,6 +244,7 @@
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
+        <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Birthdate</members>
         <members>Contact.CleanStatus</members>
         <members>Contact.Department</members>
@@ -661,6 +663,8 @@
         <members>CampaignMember</members>
         <members>Case</members>
         <members>CaseContactRole</members>
+        <members>ChannelProgram</members>
+        <members>ChannelProgramLevel</members>
         <members>CollaborationGroup</members>
         <members>CollaborationGroupMember</members>
         <members>College__c</members>
