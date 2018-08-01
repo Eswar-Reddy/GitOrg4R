@@ -205,6 +205,7 @@
         <members>CampaignMember.Title</members>
         <members>Case.AccountId</members>
         <members>Case.AssetId</members>
+        <members>Case.AutorabitExtId__c</members>
         <members>Case.BusinessHoursId</members>
         <members>Case.ClosedDate</members>
         <members>Case.Comments</members>
@@ -232,6 +233,7 @@
         <members>Case.SuppliedName</members>
         <members>Case.SuppliedPhone</members>
         <members>Case.Type</members>
+        <members>Case.UAT_fields__c</members>
         <members>CaseContactRole.Role</members>
         <members>College__c.CollegeCourses__c</members>
         <members>College__c.CollegeP1__c</members>
